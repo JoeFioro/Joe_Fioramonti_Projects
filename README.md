@@ -2,4 +2,4 @@
  
 https://public.tableau.com/profile/joe.fioramonti#!/
 
-A continuing collection of Tableau project I've created in an effort to continue learning skills with Data Visualization
+A collection of Tableau projects I've created in an effort to continue learning skills with Data Visualization.
